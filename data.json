@@ -1,0 +1,142 @@
+[
+  {
+    "event": "http://www.wikidata.org/entity/Q1001479",
+    "eventLabel": "Battle of Cape Finisterre",
+    "eventDescription": "1805 battle during the War of the Third Coalition",
+    "date": "1805-07-22T00:00:00Z",
+    "coord": "Point(-9.27109 42.8941)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Cape%20Finisterre.jpg"
+  },
+  {
+    "event": "http://www.wikidata.org/entity/Q692074",
+    "eventLabel": "Battle of Ivankovac",
+    "eventDescription": "1805 battle",
+    "date": "1805-08-18T00:00:00Z",
+    "coord": "Point(21.4347 43.9736)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%98%D0%B2%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D0%B0%D1%86.jpg"
+  },
+  {
+    "event": "http://www.wikidata.org/entity/Q2984761",
+    "eventLabel": "Battle of Donauwörth",
+    "eventDescription": "1805 battle during the War of the Third Coalition",
+    "date": "1805-10-07T00:00:00Z",
+    "coord": "Point(10.8 48.7)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Der%20Donau%C3%BCbergang%20bei%20Donauw%C3%B6rth.jpg"
+  },
+  {
+    "event": "http://www.wikidata.org/entity/Q1960626",
+    "eventLabel": "Battle of Wertingen",
+    "eventDescription": "1805 battle during the War of the Third Coalition",
+    "date": "1805-10-08T00:00:00Z",
+    "coord": "Point(10.6792 48.5556)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Colonne%20de%20la%20Grande%20Arm%C3%A9e%20Bataille%20de%20Wertingen%20bas-relief-15.jpg"
+  },
+  {
+    "event": "http://www.wikidata.org/entity/Q3206342",
+    "eventLabel": "Battle of Günzburg",
+    "eventDescription": "1805 battle during the War of the Third Coalition}",
+    "date": "1805-10-09T00:00:00Z",
+    "coord": "Point(10.27 48.45)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Guenzburg%20germany%201918.jpg"
+  },
+  {
+    "event": "http://www.wikidata.org/entity/Q771598",
+    "eventLabel": "Battle of Haslach-Jungingen",
+    "eventDescription": "1805 battle during the War of the Third Coalition",
+    "date": "1805-10-11T00:00:00Z",
+    "coord": "Point(9.98 48.4)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20g%C3%A9n%C3%A9ral%20Dupont%20%C3%A0%20la%20bataille%20d%27Albeck%2C%2011%20octobre%201805.jpg"
+  },
+  {
+    "event": "http://www.wikidata.org/entity/Q657502",
+    "eventLabel": "Battle of Elchingen",
+    "eventDescription": "1805 battle during the War of the Third Coalition",
+    "date": "1805-10-14T00:00:00Z",
+    "coord": "Point(10.090555555 48.454166666)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Elchingen%20in%201805%20%28J.%20L.%20Rugendas%20II%29.jpg"
+  },
+  {
+    "event": "http://www.wikidata.org/entity/Q2984823",
+    "eventLabel": "Battle of Memmingen",
+    "eventDescription": "1805 battle during the War of the Third Coalition",
+    "date": "1805-10-14T00:00:00Z",
+    "coord": "Point(10.1811 47.9878)"
+  },
+  {
+    "event": "http://www.wikidata.org/entity/Q2889480",
+    "eventLabel": "Battle of Nerenstetten",
+    "eventDescription": "1805 battle",
+    "date": "1805-10-16T00:00:00Z",
+    "coord": "Point(10.0992 48.5289)"
+  },
+  {
+    "event": "http://www.wikidata.org/entity/Q2889482",
+    "eventLabel": "Battle of Neresheim",
+    "eventDescription": "1805 battle",
+    "date": "1805-10-17T00:00:00Z",
+    "coord": "Point(10.3344 48.7542)"
+  },
+  {
+    "event": "http://www.wikidata.org/entity/Q2890355",
+    "eventLabel": "Battle of Verona",
+    "eventDescription": "1805 battle during the War of the Third Coalition",
+    "date": "1805-10-18T00:00:00Z",
+    "coord": "Point(10.9833 45.4333)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Attaque%20et%20prise%20du%20pont%20du%20vieux%20ch%C3%A2teau%20de%20V%C3%A9rone%2C%20le%2018%20octobre%201805.jpg"
+  },
+  {
+    "event": "http://www.wikidata.org/entity/Q159072",
+    "eventLabel": "Battle of Ulm",
+    "eventDescription": "1805 battle during the War of the Third Coalition",
+    "date": "1805-10-20T00:00:00Z",
+    "coord": "Point(9.983333333 48.383333333)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Th%C3%A9venin%20-%20Reddition%20de%20la%20ville%20d%27Ulm.jpg"
+  },
+  {
+    "event": "http://www.wikidata.org/entity/Q171416",
+    "eventLabel": "Battle of Trafalgar",
+    "eventDescription": "1805 battle during the War of the Third Coalition",
+    "date": "1805-10-21T00:00:00Z",
+    "coord": "Point(-6.2 36.25)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Battle%20of%20Trafalgar%2C%2021%20October%201805-%20Beginning%20of%20the%20Action%20RMG%20BHC0548.tiff"
+  },
+  {
+    "event": "http://www.wikidata.org/entity/Q857434",
+    "eventLabel": "Battle of Caldiero",
+    "eventDescription": "1805 battle during the War of the Third Coalition",
+    "date": "1805-10-30T00:00:00Z",
+    "coord": "Point(11.190555555 45.423888888)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Archduke%20Charles%20at%20Battle%20of%20Caldiero.JPG"
+  },
+  {
+    "event": "http://www.wikidata.org/entity/Q2237017",
+    "eventLabel": "Battle of Mehrnbach",
+    "eventDescription": "1805 battle during the War of the Third Coalition",
+    "date": "1805-10-30T00:00:00Z",
+    "coord": "Point(13.4894 48.219)"
+  },
+  {
+    "event": "http://www.wikidata.org/entity/Q1625621",
+    "eventLabel": "Battle of Steyr",
+    "eventDescription": "1805 battle",
+    "date": "1805-11-04T00:00:00Z",
+    "coord": "Point(14.4168 48.05)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Combat%20de%20Steyer%2C%207%20novembre%201805.jpg"
+  },
+  {
+    "event": "http://www.wikidata.org/entity/Q902181",
+    "eventLabel": "Battle of Cape Ortegal",
+    "eventDescription": "1805 battle during the War of the Third Coalition",
+    "date": "1805-11-04T00:00:00Z",
+    "coord": "Point(-7.857760317 43.818046128)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Strachan%27s%20Action%20after%20Trafalgar%2C%204%20November%201805%20Bringing%20Home%20the%20Prizes.jpg"
+  },
+  {
+    "event": "http://www.wikidata.org/entity/Q697034",
+    "eventLabel": "Battle of Amstetten",
+    "eventDescription": "1805 battle during the War of the Third Coalition",
+    "date": "1805-11-05T00:00:00Z",
+    "coord": "Point(14.8667 48.1167)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Combat%20d%27Amstetten%2C%206%20novembre%201805.jpg"
+  }
+]
